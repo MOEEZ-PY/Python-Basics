@@ -1,3 +1,3 @@
-# testrpo
+# Python basics
 
-This is testing repositry
+This repo is totally made for learning purposes. 
